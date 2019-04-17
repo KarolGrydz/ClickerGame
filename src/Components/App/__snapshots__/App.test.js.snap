@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should render without crashing 1`] = `
+<Container
+  className="text-center"
+  fluid={true}
+  tag="div"
+>
+  <Col
+    md="12"
+    sm="12"
+    tag="div"
+    widths={
+      Array [
+        "xs",
+        "sm",
+        "md",
+        "lg",
+        "xl",
+      ]
+    }
+    xs="12"
+  >
+    <styled.div>
+      <AppHeader
+        addScore={false}
+      />
+      <Home
+        addNewScore={[Function]}
+        addScore={false}
+        addScoreToFireBase={[Function]}
+        changeSite={[Function]}
+        numberOfClickToAdd={0}
+        players={Array []}
+      />
+    </styled.div>
+    <Footer
+      players={Array []}
+    />
+  </Col>
+</Container>
+`;

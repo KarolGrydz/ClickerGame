@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Counter /> props should be numer 1`] = `
+<span>
+  0
+</span>
+`;
+
+exports[`<Counter /> should render after passing a number 1`] = `
+<span>
+  0
+</span>
+`;
+
+exports[`<Counter /> should render without crashing 1`] = `
+<span>
+  0
+</span>
+`;

@@ -1,0 +1,15 @@
+{
+  "main.css": "./projects/games/MyClicker/static/css/main.9ae8ce79.chunk.css",
+  "main.js": "./projects/games/MyClicker/static/js/main.d9be9d30.chunk.js",
+  "main.js.map": "./projects/games/MyClicker/static/js/main.d9be9d30.chunk.js.map",
+  "runtime~main.js": "./projects/games/MyClicker/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "./projects/games/MyClicker/static/js/runtime~main.a8a9905a.js.map",
+  "static/css/2.feb5b82a.chunk.css": "./projects/games/MyClicker/static/css/2.feb5b82a.chunk.css",
+  "static/js/2.8833bcfb.chunk.js": "./projects/games/MyClicker/static/js/2.8833bcfb.chunk.js",
+  "static/js/2.8833bcfb.chunk.js.map": "./projects/games/MyClicker/static/js/2.8833bcfb.chunk.js.map",
+  "index.html": "./projects/games/MyClicker/index.html",
+  "precache-manifest.093c047c4e11a344df83554d12818996.js": "./projects/games/MyClicker/precache-manifest.093c047c4e11a344df83554d12818996.js",
+  "service-worker.js": "./projects/games/MyClicker/service-worker.js",
+  "static/css/2.feb5b82a.chunk.css.map": "./projects/games/MyClicker/static/css/2.feb5b82a.chunk.css.map",
+  "static/css/main.9ae8ce79.chunk.css.map": "./projects/games/MyClicker/static/css/main.9ae8ce79.chunk.css.map"
+}

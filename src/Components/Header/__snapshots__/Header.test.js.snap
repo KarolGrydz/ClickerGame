@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should render without crashing 1`] = `
+<div>
+  <styled.h1>
+    Gra w klikacza
+  </styled.h1>
+  <styled.p>
+    Ile razy jesteś w stanie kliknąć w przeciągu 10 sekund?
+    <br />
+    Zabawa zaczyna się od pierwszego kliknięcia...
+  </styled.p>
+</div>
+`;
+
+exports[`<Header /> should return add score title if true 1`] = `
+<styled.h1>
+  Dodaj swój wynik
+</styled.h1>
+`;
+
+exports[`<Header /> should return front title if false 1`] = `
+<styled.h1>
+  Dodaj swój wynik
+</styled.h1>
+`;

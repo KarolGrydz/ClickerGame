@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> should render without crashing 1`] = `
+<styled.div>
+  <Col
+    className="text-center"
+    md="12"
+    sm="12"
+    tag="div"
+    widths={
+      Array [
+        "xs",
+        "sm",
+        "md",
+        "lg",
+        "xl",
+      ]
+    }
+    xs="12"
+  >
+    <Modals
+      players={Object {}}
+    />
+  </Col>
+  <a
+    href="https://kg.glogow.pl"
+  >
+    English version
+  </a>
+  <p>
+    Stworzone przez 
+    <a
+      href="https://kg.glogow.pl"
+    >
+      Ranald
+    </a>
+     2016, Wszelkie prawa zastrzeżone
+  </p>
+</styled.div>
+`;
