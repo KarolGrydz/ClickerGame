@@ -1,6 +1,6 @@
 #Clicker game in ReactJS
 
-(Play the game)[https://www.kg.glogow.pl/projects/games/MyClicker/]
+[Play the game](https://www.kg.glogow.pl/projects/games/MyClicker/)
 
 This is a simply clicker game write in javascript and reactjs library. The main goal is to click as much as you can in ten seconds. The packages I use in this app are:
 
